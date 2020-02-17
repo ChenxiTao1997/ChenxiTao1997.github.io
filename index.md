@@ -15,8 +15,8 @@
 <img src="images/Yogurt%20Flavor%20Selection.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Conjoint Analysis: Toy Horse Product Line Design](/pdf/Toy Horse Product Line Design.html)
+<img src="images/Toy%20Horse%20Product%20Line%20Design.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
