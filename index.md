@@ -30,8 +30,10 @@
 <img src="images/Non-negative%20Tweet%20Detection%20For%20Airlines.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Classification Model: Credit Risk Prediction with LightBGM](/pdf/Credit%20Risk%20Prediction%20with%20LightBGM.pdf)
+<img src="images/Credit%20Risk%20Prediction%20with%20LightBGM_1.png?raw=true"/>
+<img src="images/Credit%20Risk%20Prediction%20with%20LightBGM_2.png?raw=true"/>
+<img src="images/Credit%20Risk%20Prediction%20with%20LightBGM_3.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
