@@ -4,8 +4,8 @@
 
 ### Projects with Tableau
 
-[Airbnb Selection in NYC 2019](http://chenxitao-simon.github.io/pdf/Airbnb%20Selection%20in%20NYC_Susie%20Tao.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Airbnb Selection in NYC 2019](/pdf/Airbnb%20Selection%20in%20NYC_Susie%20Tao.pdf)
+<img src="images/Airbnb%20Selection%20in%20NYC.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/Airbnb Selection in NYC_Susie Tao.pdf)
