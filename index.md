@@ -11,8 +11,8 @@
 
 ### Projects with R
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[TURF analysis: Yorgurt Flavor Selection](/pdf/Yogurt Flavor Selection.html)
+<img src="images/Yogurt%20Flavor%20Selection.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
