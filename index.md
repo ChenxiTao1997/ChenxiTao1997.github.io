@@ -34,8 +34,8 @@
 <img src="images/Credit%20Risk%20Prediction%20with%20LightBGM_1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Topic Modeling: Food Trend Detection](/pdf/Food%20Trend%20Detection.html)
+<img src="images/Food%20Trend%20Detection.png?raw=true"/>
 
 ---
 
