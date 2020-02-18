@@ -19,8 +19,16 @@
 <img src="images/Toy%20Horse%20Product%20Line%20Design.png?raw=true"/>
 
 ---
-[Conditional Causal Effect: Targeting For Email Campaign](/pdf/Targeting%20For%20Email%20Campaign.pdf)
+[Conditional Causal Effect: Targeting for Email Campaign](/pdf/Targeting%20For%20Email%20Campaign.pdf)
 <img src="images/Targeting%20For%20Email%20Campaign.png?raw=true"/>
+
+---
+[Pricing Analytics: Estimating Demand for Cars](/pdf/Estimating%20Demand%20for%20Cars.pdf)
+<img src="images/Estimating%20Demand%20for%20Cars.png?raw=true"/>
+
+---
+[Pricing Analytics: Estimating Demand for Cars](/pdf/Estimating%20Demand%20for%20Cars.pdf)
+<img src="images/Estimating%20Demand%20for%20Cars.png?raw=true"/>
 
 ---
 
