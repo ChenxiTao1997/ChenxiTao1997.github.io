@@ -19,8 +19,8 @@
 <img src="images/Toy%20Horse%20Product%20Line%20Design.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Conditional Causal Effect: Targeting For Email Campaign](/pdf/Targeting%20For%20Email%20Campaign.pdf)
+<img src="images/Targeting%20For%20Email%20Campaign.png?raw=true"/>
 
 ---
 
